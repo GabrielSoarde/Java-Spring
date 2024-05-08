@@ -1,6 +1,6 @@
 # Java-Spring
 
-## Sobre o sistema
+## Sobre o projeto
 Projeto feito com base na aula de Java do professor Nélio Alves
 
 
